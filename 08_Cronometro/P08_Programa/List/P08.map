@@ -1,0 +1,27 @@
+RAM Allocation [bytes]
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+tabla7segmentos                                                   0x00E0      10
+
+EEPROM Allocation [bytes]
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+botonp_reset                                                      R2.0      1bit
+botonp_stop                                                       R2.1      1bit
+botonp_start                                                      R2.2      1bit
+botona_reset                                                      R2.3      1bit
+botona_stop                                                       R2.4      1bit
+botona_start                                                      R2.5      1bit
+estado                                                            R2.6      1bit
+var                                                               R5           1
+var2                                                              R4           1
+var3                                                              R7           1
+
+FLASH Allocation [words]
+Function                                                          Address   Size
+--------------------------------------------------------------------------------
+main                                                              0x00056    165

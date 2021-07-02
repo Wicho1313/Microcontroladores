@@ -1,0 +1,22 @@
+RAM Allocation [bytes]
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+i                                                                 0x00E0       4
+
+EEPROM Allocation [bytes]
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+botonp                                                            R2.0      1bit
+botona                                                            R2.1      1bit
+var                                                               R4,R5        2
+var2                                                              R6,R7        2
+flag                                                              R8,R9        2
+
+FLASH Allocation [words]
+Function                                                          Address   Size
+--------------------------------------------------------------------------------
+main                                                              0x0004F    181

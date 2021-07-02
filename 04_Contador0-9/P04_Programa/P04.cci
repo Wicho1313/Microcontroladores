@@ -1,0 +1,6 @@
+VERSION:3 SOURCE_TIMESTAMP:515B7D14
+NODE:I LEVEL:0 LINE:24 "C:\cvavreval\inc\mega8535.h"
+NODE:M LEVEL:0 LINE:25 "boton"
+NODE:C LEVEL:0 LINE:26 "tabla7segmentos -> RAM:????"
+NODE:V LEVEL:0 LINE:27 "var1 -> R5"
+NODE:F LEVEL:0 LINE:30 "main(void)"

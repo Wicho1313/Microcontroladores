@@ -1,0 +1,37 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+i                                                                 0x00E0       2
+j                                                                 0x00E2       2
+x                                                                 0x00E4       2
+y                                                                 0x00E6       2
+direccion                                                         0x00E8       2
+dsplz                                                             0x00EA       2
+stay                                                              0x00EC       2
+cols                                                              0x00EE       2
+inst                                                              0x00F0       2
+win                                                               0x00F2       2
+rapidez                                                           0x00F4       2
+rapidez1                                                          0x00F6       2
+rapidez2                                                          0x00F8       4
+gan1                                                              0x00FC       2
+gan2                                                              0x00FE       2
+gan3                                                              0x0100       2
+gan4                                                              0x0102       2
+tabla7segmentos                                                   0x0104      20
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+random                                                            0x0000       2
+barra1                                                            0x0002       2
+barra2                                                            0x0004       2
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+rand                                                              R4,R5        2
+cont1                                                             R6,R7        2
+cont2                                                             R8,R9        2
+puntos1                                                           R10,R11      2
+puntos2                                                           R12,R13      2

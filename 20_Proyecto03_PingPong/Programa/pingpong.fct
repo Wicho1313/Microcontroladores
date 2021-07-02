@@ -1,0 +1,2 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"pingpong.c" LINE:107
+ext_int0_isr DSTACK_USAGE:7 DSTACK_LEVEL:7 FILE:"pingpong.c" LINE:56
